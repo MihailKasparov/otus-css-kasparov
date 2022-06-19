@@ -1,2 +1,2 @@
 # html
-html-test-repository v1.2
+otus-css-kasparov version 2.0
