@@ -1,2 +1,2 @@
 # html
-html-test-repository v1.1
+html-test-repository v1.2
